@@ -1,11 +1,10 @@
-### README.md
 
-```markdown
+
 # UniPAD: A Universal Pre-training Paradigm for Autonomous Driving
 
 UniPAD is a novel self-supervised learning framework designed for 3D perception tasks in autonomous driving. Inspired by the paper *UniPAD: A Universal Pre-training Paradigm for Autonomous Driving*, this repository implements key components of UniPAD, including modular encoders for LiDAR and multi-view images, a unified volumetric representation, and a neural rendering decoder.
 
----
+
 
 ## **Overview**
 
@@ -123,13 +122,3 @@ This implementation is inspired by the paper *UniPAD: A Universal Pre-training P
 
 ## **License**
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-```
-
-### Key Points of the README:
-1. It **explains the project purpose and features** based on the paper.
-2. Provides **clear setup and usage instructions**.
-3. **Describes the architecture** implemented in the repository.
-4. Highlights **results inspired by the paper**.
-5. Includes a **call for contributions** and acknowledgment of the original paper.
-
-Let me know if you'd like further refinements!
